@@ -14,7 +14,7 @@ return [
     */
 
     'accepted'             => ':attribute deve essere accettato.',
-    'active_url'           => 'L''URL :attribute non è un URL valido.',
+    'active_url'           => 'L\'URL :attribute non è un URL valido.',
     'after'                => ':attribute deve essere una data successiva a :date.',
     'alpha'                => ':attribute può contenere solamente lettere.',
     'alpha_dash'           => ':attribute può contenere solamente lettere, numeri e trattini.',
@@ -37,7 +37,7 @@ return [
     'email'                => ':attribute deve essere un indirizzo email valido.',
     'filled'               => 'Il campo :attribute è obbligatorio.',
     'exists'               => 'Il campo :attribute selezionato non è valido.',
-    'image'                => ':attribute deve essere un''immagine.',
+    'image'                => ':attribute deve essere un\'immagine.',
     'in'                   => 'Il campo :attribute selezionato non è valido.',
     'integer'              => ':attribute deve essere un numero intero.',
     'ip'                   => ':attribute deve essere un indirizzo IP valido.',
