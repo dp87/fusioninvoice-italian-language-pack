@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' => 'Passwords must be at least six characters and match the confirmation.',
-    'user' => "We can't find a user with that e-mail address.",
-    'token' => 'This password reset token is invalid.',
-    'sent' => 'We have e-mailed your password reset link!',
-    'reset' => 'Your password has been reset!',
+    'password' => 'Le password devono contenere almeno sei caratteri e la conferma password deve combaciare.',
+    'user' => "Non abbiamo trovato un utente con questo indirizzo email.",
+    'token' => 'Questo token per il reset della password non è valido.',
+    'sent' => 'Ti abbiamo inviato il link per reimpostare la password via email!',
+    'reset' => 'La tua password è stata reimpostata!',
 
 ];
