@@ -492,7 +492,7 @@ return [
     'year_to_date'                            => 'Anno fino ad oggi',
     'yearly'                                  => 'Annuale',
     'years'                                   => 'Anni',
-    'yes'                                     => 'sì',
+    'yes'                                     => 'Sì',
     'you_may_now_sign_in'                     => 'Ora puoi accedere!',
 
     // 2017-1
