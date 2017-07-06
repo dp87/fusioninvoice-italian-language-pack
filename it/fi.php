@@ -402,7 +402,7 @@ return [
     'smtp_password'                           => 'Password SMTP',
     'smtp_username'                           => 'Username SMTP',
     'start_date'                              => 'Data di inizio',
-    'state'                                   => 'Stato',
+    'state'                                   => 'Stato o provincia',
     'status'                                  => 'Stato',
     'step_database_setup'                     => 'Questo passaggio installerà e aggiornerà le tabelle del database. Questo passaggio potrebbe metterci un po\' di tempo.',
     'step_prerequisites'                      => 'I seguenti prerequisiti devono essere risolti prima di poter proseguire con l\'installazione:',
