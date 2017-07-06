@@ -381,7 +381,7 @@ return [
     'run_report'                              => 'Esegui report',
     'save'                                    => 'Salva',
     'save_and_apply_exchange_rate'            => 'Salva e applica tasso di cambio',
-    'save_item_as_lookup'                     => 'Salva elemento come lookup',
+    'save_item_as_lookup'                     => 'Salva articolo come lookup',
     'search'                                  => 'Cerca',
     'select_file_to_import'                   => 'Seleziona il file da importare',
     'send'                                    => 'Invia',
