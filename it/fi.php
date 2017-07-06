@@ -361,7 +361,7 @@ return [
     'record_not_found'                        => 'Record non trovato',
     'record_successfully_created'             => 'Record creato con successo',
     'record_successfully_deleted'             => 'Record eliminato con successo',
-    'record_successfully_updated'             => 'Record aggiornato con successo updated',
+    'record_successfully_updated'             => 'Record aggiornato con successo',
     'records_imported_successfully'           => 'Records importati con successo',
     'recurring'                               => 'Ricorrenti',
     'recurring_invoices'                      => 'Fatture ricorrenti',
