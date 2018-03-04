@@ -471,8 +471,8 @@ return [
     'view_all_quotes_for_client'              => 'Visualizza tutti i preventivi per questo cliente',
     'view_approved_quotes'                    => 'Visualizza preventivi approvati',
     'view_client'                             => 'Visualizza cliente',
-    'view_draft_invoices'                     => 'Visualizza bozze fatture',
-    'view_draft_quotes'                       => 'Visualizza bozze preventivi',
+    'view_draft_invoices'                     => 'Visualizza fatture in formato bozza',
+    'view_draft_quotes'                       => 'Visualizza preventivi in formato bozza',
     'view_overdue_invoices'                   => 'Visualizza fatture scadute',
     'view_payments'                           => 'Visualizza pagamenti',
     'view_rejected_quotes'                    => 'Visualizza preventivi rifiutati',
@@ -574,4 +574,23 @@ return [
     'sandbox'                                 => 'Sandbox',
     'secret_key'                              => 'Chiave segreta',
     'type'                                    => 'Tipo',
+
+    // 2017-10
+    'deselect_all'                            => 'Deseleziona tutto',
+    'select_all'                              => 'Seleziona tutto',
+    'use_24_hour_time_format'                 => 'Usa formato orario 24 ore',
+
+    // 2017-11
+    'bulk_delete_record_warning'              => 'Sei sicuro di voler eliminare questi record?',
+    'bulk_invoice_change_status_warning'      => 'Sei sicuro di voler modificare lo stato delle fatture selezionate?',
+    'bulk_quote_change_status_warning'        => 'Sei sicuro di voler modificare lo stato dei preventivi selezionati?',
+    'calculate_as_vat_gst'                    => 'Calcola come IVA/GST',
+    'change_status'                           => 'Modifica stato',
+    'default_status_filter'                   => 'Filtro per stato di default',
+    'error_applying_payment'                  => 'Si è verificato un errore nell\'applicatione di questo pagamento. Prova una carta diversa o un altro metodo di pagamento.',
+    'remaining'                               => 'Rimanente',
+
+    // 2017-12
+    'invoice_date'                            => 'Data fattura',
+    'include_profit_based_on'                 => 'Includi profitti basati su',
 ];
